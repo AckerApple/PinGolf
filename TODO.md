@@ -1,3 +1,4 @@
+- display rank
 - enable edit hole machine scores
 - add "max" button on hole score recorder
 - enable add hole
@@ -6,6 +7,7 @@
 - add see just your own score
 - add more login types
 - tighter security
+  - add getPlayer rule
   - maybe easy to disable account
 - joins end up being saved to database
   - consider how to clone
