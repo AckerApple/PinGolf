@@ -1,9 +1,15 @@
 - display rank
+- enable round selecting
+  - cast id to date time
+- enable cloning round
+  - display round stats
 - enable edit hole machine scores
 - add "max" button on hole score recorder
 - enable add hole
 - enable add machine
 - main menu layout
+- allow use profile edit
+  - ensure user log in doesn't overwrite custom saves
 - add see just your own score
 - add more login types
 - tighter security
@@ -12,3 +18,4 @@
 - joins end up being saved to database
   - consider how to clone
   - maybe download then reupload with changes???
+- maybe have pingolf.ackerapple.com
