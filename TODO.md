@@ -1,3 +1,4 @@
+- move current player data to top
 - display rank
 - enable round selecting
   - cast id to date time
