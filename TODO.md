@@ -22,6 +22,7 @@
   - maybe easy to disable account
 - joins end up being saved to database
   - consider how to clone
+  - maybe hooks for delete keys
   - maybe download then reupload with changes???
 - maybe have pingolf.ackerapple.com
 - get page slide fx working
