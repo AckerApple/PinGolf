@@ -15,6 +15,7 @@
   - ensure user log in doesn't overwrite custom saves
 - add see just your own score
 - add more login types
+- consider score photo
 - tighter security
   - add getPlayer rule
   - maybe easy to disable account
