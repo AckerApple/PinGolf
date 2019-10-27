@@ -24,3 +24,4 @@
   - consider how to clone
   - maybe download then reupload with changes???
 - maybe have pingolf.ackerapple.com
+- get page slide fx working
