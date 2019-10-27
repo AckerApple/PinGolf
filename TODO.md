@@ -8,6 +8,7 @@
 - enable add hole
 - enable add machine
 - main menu layout
+- try a card layout for score card
 - allow use profile edit
   - allow adding phone
   - modal by header icon tab
