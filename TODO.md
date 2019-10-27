@@ -9,6 +9,8 @@
 - enable add machine
 - main menu layout
 - allow use profile edit
+  - allow adding phone
+  - modal by header icon tab
   - ensure user log in doesn't overwrite custom saves
 - add see just your own score
 - add more login types
