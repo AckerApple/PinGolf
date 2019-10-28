@@ -1,15 +1,26 @@
-- move current player data to top
+- enable guest
+- select hole score by number and quick close menu
+- change woz easy
+- maybe put link on ackerapple.com
+- maybe make /pinball available
+- dont update display until save has occurred
+- reduce display jumping when adding strokes
+
+
 - display rank
+- try a card layout for score card
+- joins end up being saved to database
+  - consider how to clone
+  - maybe hooks for delete keys
+  - maybe download then reupload with changes???
+- get page slide fx working
+
+- enable add hole
 - enable round selecting
   - cast id to date time
 - enable cloning round
   - display round stats
-- enable edit hole machine scores
-- add "max" button on hole score recorder
-- enable add hole
 - enable add machine
-- main menu layout
-- try a card layout for score card
 - allow use profile edit
   - allow adding phone
   - modal by header icon tab
@@ -21,9 +32,8 @@
 - tighter security
   - add getPlayer rule
   - maybe easy to disable account
-- joins end up being saved to database
-  - consider how to clone
-  - maybe hooks for delete keys
-  - maybe download then reupload with changes???
 - maybe have pingolf.ackerapple.com
-- get page slide fx working
+
+
+wish list
+- log activity
